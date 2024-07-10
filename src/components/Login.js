@@ -60,7 +60,7 @@ const Login = ({ onLogin }) => {
         <div class="text-center">
 							<br />
 							<h5>Sample Login</h5>
-							<p><b>Username -</b> 20210002<br/><b>Password - </b>20210002</p>
+							<p><b>Username -</b> beautifultiger295<br/><b>Password - </b>selena</p>
 				</div>
       </form>
     </div>
