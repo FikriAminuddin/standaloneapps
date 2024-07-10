@@ -59,7 +59,7 @@ const Login = ({ onLogin }) => {
         <button type="submit">Login</button>
         <div class="text-center">
 							<br />
-							<h5>Sample Login</h5>
+							<h4>Sample Login</h4>
 							<p><b>Username -</b> beautifultiger295<br/><b>Password - </b>selena</p>
 				</div>
       </form>
