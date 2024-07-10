@@ -1,0 +1,28 @@
+/* src/components/FriendCard.css */
+.friend-card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .friend-card img {
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .friend-card-details {
+    flex: 1;
+  }
+  
+  .friend-card-details h3 {
+    margin: 0 0 10px 0;
+  }
+  
+  .friend-card-details p {
+    margin: 5px 0;
+  }
+  
